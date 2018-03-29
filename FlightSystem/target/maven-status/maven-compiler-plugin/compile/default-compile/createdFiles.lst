@@ -1,0 +1,7 @@
+com\flight\service\impl\FlightServiceImpl.class
+com\flight\bean\TransFlight.class
+com\flight\service\FlightService.class
+com\flight\util\HttpClientUtil.class
+com\flight\controller\IndexController.class
+com\flight\bean\Flight.class
+com\flight\controller\FlightController.class
